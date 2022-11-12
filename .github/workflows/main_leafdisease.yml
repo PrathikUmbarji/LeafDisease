@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'LeafDisease'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_F82710C4F8AE4289B05F185E8239BCB8 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_8EFE4D17943C474E96F1EBE22DF473D0 }}
